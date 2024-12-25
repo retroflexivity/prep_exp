@@ -1,0 +1,17 @@
+Sentence,modifier,position,mod,pron,ix
+MOD_L PRON MOD_R сегодня MOD_E очень интересные доклады.,vse,high,всех,нас,1
+MOD_L PRON MOD_R недавно MOD_E произошло трагическое событие.,vse,high,всех,нас,2
+MOD_L PRON MOD_R сегодня MOD_E есть чем поделиться.,kazhdy,high,каждого,нас,1
+MOD_L PRON MOD_R небось MOD_E по куче денег.,kazhdy,high,каждого,них,2
+MOD_L PRON MOD_R теперь MOD_E почти нет денег.,sam,high,самого,него,1
+"MOD_L PRON MOD_R сейчас MOD_E возникли вопросы к организаторам этого мероприятия.",sam,high,самого,меня,2
+MOD_L PRON MOD_R иногда MOD_E отлично голова работает.,depic,high,и пьяного,тебя,1
+"MOD_L PRON MOD_R часто MOD_E получается лучше, чем других.",depic,high,и больного,него,2
+Мы PRON_E уже бывали в гостях PRON_R MOD.,vse,low,всех,них,1
+Он одолжил PRON_E денег PRON_R MOD.,vse,low,всех,них,2
+"Не волнуйся, он PRON_E это спрашивал PRON_R MOD.",kazhdy,low,каждого,нас,1
+Она проверила PRON_E домашнее задание PRON_R MOD.,kazhdy,low,каждого,нас,2
+Я узнал PRON_E все детали PRON_R MOD.,sam,low,самой,нее,1
+Она мечтала PRON_E обо всем спросить PRON_R MOD.,sam,low,самого,него,2
+Я PRON_E никогда раньше не был PRON_R MOD.,depic,low,больного,него,1
+Я каждый раз прошу PRON_E помощи PRON_R MOD.,depic,low,уставшего,него,2
